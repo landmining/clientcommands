@@ -32,9 +32,14 @@
   
     "commands.crender.entities.success": "Pravila za upodabljanje entitet so bila posodobljena",
   
+    "commands.cscript.notFound": "Skript \"%s\" ni bil najden",
+    "commands.cscript.reload.success": "Ponovno naloženi skripti",
+    "commands.cscript.run.success": "Skript je tekel uspešno",
+    
     "commands.ctask.list.noTasks": "Nič trenutno izvajajočih nalog",
     "commands.ctask.list.success": "%d trenutno izvajajočih nalog",
     "commands.ctask.stop.noMatch": "Ni ujemajočih se nalog",
+    "commands.ctask.stop.success": "Ustavljenih %d nalog",
   
     "commands.ctemprule.list.header": "Naštevanje  %d začasnih pravil:",
     "commands.ctemprule.reset.success": "Začasno pravilo %s je bilo ponastavljeno na %s",
@@ -46,6 +51,7 @@
     "commands.client.cancel": "Prekliči",
     "commands.client.crack": "Ugotovi",
     "commands.client.expectedRegex": "Nepravilen regex %s",
+    "commands.client.notClient": "Ni ukaz strani odjemalca",
   
     "enchCrack.state": "Stanje ugotavljanja semena čaranja: %s",
     "enchCrack.state.uncracked": "Neugotovljeno",
